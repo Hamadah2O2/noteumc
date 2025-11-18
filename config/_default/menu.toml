@@ -10,15 +10,34 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
+weight = 1
 url = "https://github.com/Hamadah2O2"
 
 [social.params]
-icon = "brand-github"
+icon = "github"
+
+[[social]]
+identifier = "linkedin"
+weight = 2
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/muhammad-rozaan-848300361/"
+
+[social.params]
+icon = "linkedin"
+
+[[social]]
+identifier = "instagram"
+name = "Instagram"
+weight = 3
+url = "https://instagram.com/ozaan.h12"
+
+[social.params]
+icon = "instagram"
 
 # [[social]]
-# identifier = "instagram"
-# name = "Instagram"
-# url = "https://instagram.com/ozaan.h12"
+# identifier = "facebook"
+# name = "Facebook"
+# url = "https://facebook.com"
 #
 # [social.params]
-# icon = "brand-twitter"
+# icon = "facebook"
