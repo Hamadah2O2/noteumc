@@ -122,12 +122,12 @@ Berikut adalah contoh jurnal ilmiah terakreditasi nasional yang mempublikasikan 
 
 | Tema Penelitian | Nama Jurnal | Penerbit | Tingkat Akreditasi (SINTA) | Contoh Topik Penelitian yang Relevan |
 | :--- | :--- | :--- | :--- | :--- |
-| **a. Sistem Informasi** | **Sinkron : Jurnal dan Penelitian Teknik Informatika**[citation:4] | Politeknik Ganesha Medan | SINTA 3 | Analisis penerimaan pengguna aplikasi mobile, arsitektur enterprise untuk industri, implementasi sistem rekam medis berbasis cloud[citation:4]. |
-| **b. Sistem Pendukung Keputusan (SPK)** | **Jurnal PASTI**[citation:2] | Universitas Mercu Buana | SINTA 4 | Optimasi pemilihan supplier dengan metode hybrid BWM dan AHP, sistem klasifikasi risiko dengan berbagai pendekatan MCDM[citation:2]. |
-| **c. Sistem Pakar** | **Sinkron : Jurnal dan Penelitian Teknik Informatika**[citation:4] | Politeknik Ganesha Medan | SINTA 3 | Chatbot dengan analisis sentimen untuk preferensi kuliner, sistem identifikasi kualitas biji kopi, dan klasifikasi penyakit tanaman[citation:4]. |
-| **d. Sistem Game Technology** | **Sinkron : Jurnal dan Penelitian Teknik Informatika**[citation:4] | Politeknik Ganesha Medan | SINTA 3 | Analisis sentimen pada review game (contoh: Roblox) untuk mengukur pengalaman pengguna[citation:4]. |
-| **e. Sistem Multimedia** | **Sinkron : Jurnal dan Penelitian Teknik Informatika**[citation:4] | Politeknik Ganesha Medan | SINTA 3 | Evaluasi usability dan User Experience (UX) pada aplikasi pendidikan (Ruangguru) menggunakan SUS dan UEQ[citation:4]. |
-| **f. Sistem Jaringan** | **Sinkron : Jurnal dan Penelitian Teknik Informatika**[citation:4] | Politeknik Ganesha Medan | SINTA 3 | Deteksi risiko serangan siber dengan analisis pola pada log traffic jaringan[citation:4]. |
+| **a. Sistem Informasi** | **Sinkron : Jurnal dan Penelitian Teknik Informatika** | Politeknik Ganesha Medan | SINTA 3 | Analisis penerimaan pengguna aplikasi mobile, arsitektur enterprise untuk industri, implementasi sistem rekam medis berbasis cloud. |
+| **b. Sistem Pendukung Keputusan (SPK)** | **Jurnal PASTI** | Universitas Mercu Buana | SINTA 4 | Optimasi pemilihan supplier dengan metode hybrid BWM dan AHP, sistem klasifikasi risiko dengan berbagai pendekatan MCDM. |
+| **c. Sistem Pakar** | **Sinkron : Jurnal dan Penelitian Teknik Informatika** | Politeknik Ganesha Medan | SINTA 3 | Chatbot dengan analisis sentimen untuk preferensi kuliner, sistem identifikasi kualitas biji kopi, dan klasifikasi penyakit tanaman. |
+| **d. Sistem Game Technology** | **Sinkron : Jurnal dan Penelitian Teknik Informatika** | Politeknik Ganesha Medan | SINTA 3 | Analisis sentimen pada review game (contoh: Roblox) untuk mengukur pengalaman pengguna. |
+| **e. Sistem Multimedia** | **Sinkron : Jurnal dan Penelitian Teknik Informatika** | Politeknik Ganesha Medan | SINTA 3 | Evaluasi usability dan User Experience (UX) pada aplikasi pendidikan (Ruangguru) menggunakan SUS dan UEQ. |
+| **f. Sistem Jaringan** | **Sinkron : Jurnal dan Penelitian Teknik Informatika** | Politeknik Ganesha Medan | SINTA 3 | Deteksi risiko serangan siber dengan analisis pola pada log traffic jaringan. |
 
 ---
 
@@ -170,15 +170,15 @@ Proyek sistem adalah suatu usaha sementara yang dilakukan untuk menciptakan, men
 #### Analisa Sistem
 
 **Pengertian Analisa Sistem**
-Analisa sistem adalah **teknik pemecahan masalah yang menguraikan suatu sistem menjadi komponen-komponen pembentuknya** dengan tujuan mempelajari dan mengevaluasi kinerja komponen-komponen tersebut, serta interaksinya untuk mencapai tujuan sistem [citation:6]. Menurut Yogiyanto (1995), analisis sistem informasi adalah proses penguraian sistem untuk mengidentifikasi dan mengevaluasi permasalahan, hambatan, serta kebutuhan yang diharapkan sehingga dapat diusulkan perbaikan [citation:6].
+Analisa sistem adalah **teknik pemecahan masalah yang menguraikan suatu sistem menjadi komponen-komponen pembentuknya** dengan tujuan mempelajari dan mengevaluasi kinerja komponen-komponen tersebut, serta interaksinya untuk mencapai tujuan sistem . Menurut Yogiyanto (1995), analisis sistem informasi adalah proses penguraian sistem untuk mengidentifikasi dan mengevaluasi permasalahan, hambatan, serta kebutuhan yang diharapkan sehingga dapat diusulkan perbaikan .
 
-**Langkah-Langkah dalam Analisa Sistem [citation:6]**
+**Langkah-Langkah dalam Analisa Sistem **
 1.  **Identify (Identifikasi Masalah):** Tahap mengenali dan mendefinisikan permasalahan yang menjadi penyebab perlunya analisis.
 2.  **Understand (Memahami Sistem yang Ada):** Mempelajari secara detail bagaimana sistem yang sedang berjalan beroperasi.
 3.  **Analyze (Menganalisis):** Menganalisis hasil penelitian untuk menemukan kelemahan sistem lama dan menentukan kebutuhan sistem baru.
 4.  **Report (Melaporkan Hasil):** Membuat dan menyampaikan laporan hasil analisis beserta rekomendasi kepada pihak manajemen.
 
-**Isi Laporan Hasil Analisa [citation:1]**
+**Isi Laporan Hasil Analisa **
 1.  **Alasan Dilakukannya Analisis Sistem:** Latar belakang dan tujuan dari studi analisis.
 2.  **Uraian Permasalahan:** Deskripsi detail tentang masalah-masalah yang ditemukan pada sistem lama.
 3.  **Identifikasi Penyebab Masalah:** Analisis akar penyebab dari setiap permasalahan yang diuraikan.

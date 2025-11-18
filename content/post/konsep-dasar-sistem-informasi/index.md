@@ -29,9 +29,9 @@ sifat-sifat khusus yang dimiliki oleh sistem
 6. Keluaran Sistem
     Keluaran sistem adalah hasil dari energi yang diolah dan diklasifikasikan menjadi keluaran yang berguna dan sisa pembuangan.
 7. Pengolah Sistem
-	Suatu sistem dapat mempunyai suatu bagian pengolahan yang akan merubah masukan menjadi keluaran.
+: Suatu sistem dapat mempunyai suatu bagian pengolahan yang akan merubah masukan menjadi keluaran.
 8. Tujuan Sistem
-	Suatu sistem pasti mempunyai tujuan. Kalau suatu sistem tidak mempunyai tujuan, maka operasi sistem tidak  akan ada gunanya.
+: Suatu sistem pasti mempunyai tujuan. Kalau suatu sistem tidak mempunyai tujuan, maka operasi sistem tidak  akan ada gunanya.
 
 
 ## Klasifikasi Sistem
@@ -73,9 +73,9 @@ Tingkatan Data
 
 
 a.Kualitas informasi tergantung dari 3 (tiga) hal :
-    1. Informasi harus akurat	:	informasi harus terbebas dari kesalahan-kesalahan, tidak bias dan tidak menyesatkan
-    2. Informasi harus tepat waktu	:	informasi yang datang kepada penerimanya tidak boleh mengalami keterlambatan
-    3. Informasi harus relevan	:	informasi memiliki manfaat bagi penerimanya
+    1. Informasi harus akurat: :	informasi harus terbebas dari kesalahan-kesalahan, tidak bias dan tidak menyesatkan
+    2. Informasi harus tepat waktu: :	informasi yang datang kepada penerimanya tidak boleh mengalami keterlambatan
+    3. Informasi harus relevan: :	informasi memiliki manfaat bagi penerimanya
 
 b.Nilai informasi ditentukan oleh 2 (dua) hal :
         1. Manfaat dari informasi tersebut
@@ -116,7 +116,7 @@ Tentukan Ruang Lingkup Sistem pada perancangan Sistem Informasi Penerimaan Mahas
 1. Dapat mendukung dalam pengambilan keputusan
 2. Dapat mendukung kegiatan manajemen
 
-Yang termasuk ke dalam kegiatan manajemen adalah:			
+Yang termasuk ke dalam kegiatan manajemen adalah:: 		
     1. Perencanaan strategis
         a. Proses evaluasi lingkungan luar organisasi : harus mampu bereaksi terhadap kesempatan-kesempatan dari lingkungan luar dan tanggap terhadap tekanan-tekanan dari lingkungan luar.
         b. Penetapan tujuan
@@ -188,12 +188,91 @@ Berikut beberapa framework yang umum digunakan dalam tata kelola sistem informas
 
 ## Jurnal Nasional/Internasional yang Relevan:
 
-[AUDIT TATA KELOLA TEKNOLOGI INFORMASI MENGGUNAKAN FRAMEWORK COBIT 41 SEBAGAI UPAYA PENINGKATAN KEAMANAN DATA PADA DINAS PENDIDIKAN DAN KEBUDAYAAN KABUPATEN PESAWARAN](https://www.researchgate.net/profile/Dedi-Darwis/publication/339386061_AUDIT_TATA_KELOLA_TEKNOLOGI_INFORMASI_MENGGUNAKAN_FRAMEWORK_COBIT_41_SEBAGAI_UPAYA_PENINGKATAN_KEAMANAN_DATA_PADA_DINAS_PENDIDIKAN_DAN_KEBUDAYAAN_KABUPATEN_PESAWARAN/links/5e4ea769458515072dabd717/AUDIT-TATA-KELOLA-TEKNOLOGI-INFORMASI-MENGGUNAKAN-FRAMEWORK-COBIT-41-SEBAGAI-UPAYA-PENINGKATAN-KEAMANAN-DATA-PADA-DINAS-PENDIDIKAN-DAN-KEBUDAYAAN-KABUPATEN-PESAWARAN.pdf) 
+### ANALISIS KINERJA TATA KELOLA TEKNOLOGI INFORMASI MENGGUNAKAN FRAMEWORK COBIT 2019 PADA UNIVERSITAS JABAL GHAFUR
+**Penulis:** Salimuddin Salimuddin, Munirul Ula, Nurdin Nurdin
 
-[Tata Kelola Sistem Informasi pada Perusahaan Pelayaran Lepas Pantai](https://journal.ipb.ac.id/index.php/jabm/article/view/16312) 
+**Tahun Terbit:** 2025
 
-[Implementasi sistem informasi yayasan (siyap) terhadap kualitas tata kelola keuangan yayasan pendidikan islam di jepara](https://jurnal.unmer.ac.id/index.php/jpkm/article/view/1815)
+**Ringkasan:** Tujuan: Mengevaluasi Tata Kelola TI di Unigha menggunakan COBIT 2019 (EDM03 & MEA03). Metode: Kuantitatif (Kuesioner) dengan responden RACI Chart. Hasil: Kapabilitas Level 1 (100%), Level 2 Largely Achieved. Terdapat kesenjangan (gap) sebesar 3 level menuju target Level 4. Rekomendasi meliputi pembaruan kebijakan internal dan pelatihan SDM.
 
-[Getting value from Business Intelligence systems: A review and research agenda](https://www.sciencedirect.com/science/article/pii/S0167923616301683)
+**Review:** Kelebihan: Penerapan kerangka COBIT 2019 yang spesifik dalam konteks Perguruan Tinggi di Indonesia. Memberikan gap analysis yang jelas antara kondisi as-is dan target to-be. 
 
-[Big data analytics, artificial intelligence, machine learning, internet of things, and blockchain for enhanced business intelligence](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855856)
+**Kekurangan:** Fokus terbatas pada dua domain COBIT. Hasil Level 1/2 menunjukkan maturitas yang sangat rendah, yang mungkin dipengaruhi oleh keterbatasan implementasi instrumen atau bias responden.
+
+**Sumber:** https://doi.org/10.23960/jitet.v13i2.6130
+
+### Urgensi Akreditasi Perguruan Tinggi di Indonesia
+**Penulis:** Muh. Ihsan, Muchammad Eka Mahmud
+
+**Tahun Terbit:** 2025
+
+**Ringkasan:** Tujuan: Mengkaji makna dan urgensi Akreditasi PT. Metode: Kajian Literatur (Literature Review) dari berbagai dokumen terkait (jurnal, buku). Hasil: Akreditasi merupakan penentuan standar kualitas yang meningkatkan reputasi, kepercayaan publik, dan menjadi prasyarat untuk akses pendanaan/hibah bagi institusi. Akreditasi merupakan upaya pemerintah untuk menstandardisasi mutu lulusan.
+
+**Review:** Kelebihan: Menyediakan kerangka konseptual yang sangat relevan, menyoroti dampak Akreditasi pada aspek reputasi dan finansial institusi. 
+
+Kekurangan: Karena sifatnya kajian literatur, artikel ini kurang membahas dinamika implementasi standar akreditasi yang berubah-ubah (misalnya, IAPS 4.0) atau tantangan internal yang dihadapi PT dalam pengumpulan data dan pelaporan.
+
+**Sumber:** https://ejournal.stitsyambtg.ac.id/index.php/nabawi/article/view/119
+
+### Dashboard Monitoring Alumni dengan Teknologi Business Intelligence pada Sistem Tracer Study Undiksha
+**Penulis:** Made Diah Arista Devi, I Gusti Ayu Agung Diatri Indradewi, I Ketut Resika Arthana
+
+**Tahun Terbit:** 2023
+
+**Ringkasan:** Penelitian ini mengubah data tracer study (pelacakan alumni) Undiksha yang kompleks menjadi visual dashboard yang interaktif. Tujuannya agar pimpinan mudah memahami data riwayat lulusan.
+
+Peneliti menggunakan teknologi Business Intelligence (BI) dengan software Microsoft Power BI dan data lulusan 2019-2021. Hasilnya, dashboard tersebut berhasil dibuat dan divalidasi (lolos uji UAT) oleh para pemangku kepentingan, termasuk Wakil Rektor.
+
+**Review:**
+
+**Kelebihan:** Sangat Praktis: Memberikan solusi modern (BI) untuk masalah nyata yang dihadapi banyak universitas dalam membaca data alumni. Diuji langsung oleh pengguna akhir yang sesungguhnya (pimpinan universitas), sehingga dipastikan fungsional.
+
+**Kekurangan:** Belum Mengukur Dampak: Penelitian hanya membuktikan dashboard "berhasil dibuat", tapi belum mengukur apakah dashboard itu benar-benar mempercepat atau memperbaiki kualitas pengambilan keputusan. Fokus pada fungsionalitas (lolos UAT), bukan pada kemudahan penggunaan (usability) bagi pengguna awam.
+
+**Sumber:** https://ejournal.undiksha.ac.id/index.php/insert/article/view/58275
+
+### Rancang Bangun Sistem Business Intelligence Universitas Sebagai Pendukung Pengambilan Keputusan Akademik
+**Penulis:** Zainal Arifin,  Aris Sugiharto 
+
+**Tahun Terbit:** 2013
+
+**Ringkasan:** Penelitian ini bertujuan merancang dan membangun sistem Business Intelligence (BI) berbasis web untuk Universitas Mulawarman, guna mendukung pengambilan keputusan di tingkat pimpinan.
+
+Sistem ini bekerja dengan mengumpulkan data akademik ke dalam data warehouse. Data tersebut kemudian dianalisis menggunakan berbagai teknik seperti OLAP, KPI, dan data mining. Hasil analisis data tersebut disajikan dalam bentuk dashboard dan laporan statistik yang dapat diakses secara online melalui portal web, sehingga pimpinan dapat mengevaluasi kinerja akademik dan membuat keputusan strategis dengan lebih baik.
+
+**Review:** 
+
+**Kelebihan:**
+
+- Solusi Strategis: Mengatasi kebutuhan penting di universitas akan analisis data yang terpusat dan mudah diakses untuk pengambilan keputusan strategis (penting untuk mutu dan akreditasi).
+
+- Pendekatan Komprehensif: Desain sistem ini mencakup alur BI yang lengkap, mulai dari integrasi data (data warehouse) hingga analisis mendalam (OLAP) dan visualisasi (dashboard).
+
+**Kekurangan:**
+
+- Fokus pada Rancangan: Penelitian ini (berdasarkan abstrak) lebih fokus pada penghasilan "kerangka sistem" dan "web portal". Belum terlihat jelas sejauh mana sistem ini diimplementasikan penuh atau diukur dampaknya terhadap keputusan yang telah diambil.
+- Metode Pengujian: Abstrak tidak menyebutkan adanya pengujian pengguna akhir (User Acceptance Testing/UAT) dengan pimpinan universitas untuk memvalidasi apakah dashboard yang dihasilkan benar-benar efektif dan mudah digunakan oleh mereka.
+
+**Sumber:** https://ejournal.undip.ac.id/index.php/jsinbis/article/view/9562
+
+### Sistem Informasi Pengajaran Penulisan Bahasa Inggris Bagi Mahasiswa Berbasis Web
+**Penulis:** Zulfi Azhar, Jeperson Hutahaean, Royal Kisaran
+
+**Tahun Terbit:** 2017
+
+**Ringkasan:** Penelitian ini bertujuan untuk membantu proses belajar mengajar mata kuliah Writing (Menulis) dalam Bahasa Inggris, yang sering terkendala oleh keterbatasan waktu tatap muka di kelas untuk feedback (umpan balik).
+
+Untuk mengatasi ini, peneliti merancang sebuah sistem informasi berbasis web. Sistem ini berfungsi sebagai media bagi mahasiswa untuk mengumpulkan tugas menulis mereka secara online, dan bagi dosen untuk memberikan koreksi dan feedback langsung pada tugas tersebut melalui sistem. Metode pengembangan yang digunakan adalah Waterfall. Hasilnya adalah sebuah aplikasi yang diharapkan dapat membuat proses belajar mengajar Writing menjadi lebih fleksibel dan efektif.
+
+**Review:** 
+
+**Kelebihan:**
+
+- Fokus pada masalah spesifik e-learning, yaitu feedback untuk mata kuliah keterampilan (menulis), bukan hanya pengumpulan tugas biasa. Sistem ini memecahkan batasan waktu "tatap muka", memungkinkan dosen dan mahasiswa berinteraksi (memberi/menerima koreksi) kapan saja.
+
+**Kekurangan:**
+
+- Penggunaan metode Waterfall (dalam artikel yang saya temukan untuk judul ini) kurang ideal karena bersifat kaku. Metode Prototype atau Agile mungkin lebih cocok agar sistem bisa disesuaikan berkali-kali berdasarkan feedback dosen dan mahasiswa. Penelitian (berdasarkan abstrak) fokus pada "terbangunnya" sistem. Belum ada pengujian yang mengukur apakah penggunaan sistem ini secara signifikan meningkatkan nilai atau kemampuan menulis mahasiswa dibandingkan metode konvensional.
+
+**Sumber:** https://www.researchgate.net/publication/327110437_Sistem_Informasi_Pengajaran_Penulisan_Bahasa_Inggris_Bagi_Mahasiswa_Berbasis_Web
+
